@@ -1,0 +1,461 @@
+#page{
+  height: 900px;
+  width: 1200px;
+}
+
+#rightside{
+  height: 900px;
+  width: 1200px;
+  background-color:skyblue;
+
+}
+
+#leftside{
+  position : absolute;
+  z-index: 1;
+  background-color:slateblue;
+  font-family: Verdana;
+  text-align: center;
+  height: 900px;
+  width: 400px;
+  top: 40px;
+
+ }
+
+ #logosite img{
+   width: 50%;
+   top: 50px;
+ }
+
+#name{
+  top: 20px;
+  height: 15px;
+  color:white;
+  font-size: 30px;
+  }
+
+#surname{
+  left: 20px;
+  top: 30px;
+  color: white;
+  font-size: 30px;
+}
+
+#class{
+  left: 20px;
+  top: 40px;
+  color: white;
+  font-size: 20px;
+}
+
+#tocqueville a{
+  text-decoration: underline;
+  color:white;
+  font-family: Verdana;
+  top: 850px;
+  position: absolute;
+  z-index: 7;
+  left: 80px;
+  font-size: 18px;
+
+}
+
+#tocqueville a:hover{
+  text-decoration: underline;
+  text-shadow: 2px 2px 4px skyblue; 
+
+}
+
+#shafi{
+  text-shadow: 2px 2px 4px slateblue;
+  font-size: 30px;
+  text-align: right;
+  color: white;
+  font-family: Verdana;  
+  width: 1080px;
+}
+
+#pic img{
+  position: absolute;
+  z-index:5;
+  left: 810px;
+  top: 350px;
+  width: 15%;
+}
+
+
+
+
+#life a{
+  text-decoration: none;
+  color:white;
+  text-shadow: 4px 4px 4px slateblue;
+  font-family: Verdana;
+  position: absolute;
+  z-index: 2;
+  left: 500px;
+  top: 250px;
+  font-size: 30px;
+}
+
+#life a:hover{
+  text-decoration: none;
+  color:slateblue;
+  
+}
+
+
+#work a{
+  text-decoration: none;
+  color:white;
+  text-shadow: 4px 4px 4px slateblue;
+  font-family: Verdana;
+  position: absolute;
+  z-index: 23;
+  left: 500px;
+  top: 470px;
+  font-size: 30px;
+}
+
+#work a:hover{
+  text-decoration: none;
+  color:slateblue;
+  
+
+}
+
+#sources a{
+  text-decoration: none;
+  color:white;
+  text-shadow: 4px 4px 4px slateblue;
+  font-family: Verdana;
+  position: absolute;
+  z-index: 4;
+  left: 500px;
+  top: 700px;
+  font-size: 30px;
+}
+
+#sources a:hover{
+  text-decoration: none;
+  color:slateblue;
+  
+}
+
+.pagevie{
+  height: 900px;
+  width: 1200px;
+  background-color:skyblue;
+
+}
+
+#toppage{
+  position : absolute;
+  z-index: 2;
+  background-color: slateblue;
+  font-family: Verdana;
+  text-align: center;
+  height: 150px;
+  width: 1200px;
+  top: 8px;
+
+}
+
+#vie{
+  position : absolute;
+  z-index : 1;
+  text-shadow: 2px 2px 4px skyblue;
+  font-size: 30px;
+  color: white;
+  font-family: Verdana;
+  width: 1200px;
+  top: 25px;
+
+}
+
+
+
+#para1{
+  height: 300px;
+  width: 700px;
+  position: absolute;
+  z-index: 3;
+  text-align: justify;
+  left: 70px;
+  font-family: Verdana;
+  font-size: 30px;
+  color: white;
+  top: 160px;
+}
+
+#weizmannpic{
+  position: absolute;
+  z-index: 3;
+  left: 810px;
+  top: 350px;
+  float: right;
+}
+
+.pageoeuvre{
+  height: 900px;
+  width: 1200px;
+  background-color: skyblue;
+
+}
+
+#toppage2{
+  position : absolute;
+  z-index: 2;
+  background-color: slateblue;
+  font-family: Verdana;
+  text-align: center;
+  height: 150px;
+  width: 1200px;
+  top: 8px;
+
+}
+
+#oeuvre{
+  position : absolute;
+  z-index : 1;
+  text-shadow: 2px 2px 4px  skyblue;
+  font-size: 30px;
+  color: white;
+  font-family: Verdana;
+  width: 1200px;
+  top: 25px;
+
+}
+
+#para2{
+  height: 100px;
+  width: 1100px;
+  position: absolute;
+  z-index: 3;
+  text-align: justify;
+  left: 55px;
+  font-family: Verdana;
+  font-size: 30px;
+  color: white;
+  top: 160px;
+}
+
+#cryptographiepic{
+  position: absolute;
+  z-index: 3;
+  left: 320px;
+  top: 540px;
+}
+
+.pageressources{
+  height: 900px;
+  width: 1200px;
+  background-color: skyblue;
+
+}
+
+#toppage3{
+  position : absolute;
+  z-index: 2;
+  background-color: slateblue;
+  font-family: Verdana;
+  text-align: center;
+  height: 150px;
+  width: 1200px;
+  top: 8px;
+
+}
+
+#ressources{
+  position : absolute;
+  z-index : 1;
+  text-shadow: 2px 2px 4px skyblue;
+  font-size: 30px;
+  color: white;
+  font-family: Verdana;
+  width: 1200px;
+  top: 25px;
+
+}
+
+#sources2{
+  height: 100px;
+  width: 1100px;
+  position: absolute;
+  z-index: 3;
+  text-align: justify;
+  left: 55px;
+  font-family: Verdana;
+  font-size: 30px;
+  color: white;
+  text-shadow: 2px 2px 4px slateblue;
+  top: 160px;
+}
+
+#lienwiki a{
+  text-decoration: none;
+  color:slateblue;
+  font-family: Verdana;
+  top: 260px;
+  position: absolute;
+  z-index: 1;
+  left: 55px;
+  font-size: 18px;
+}
+
+#lienwiki a:hover{
+  text-decoration: none;
+  text-shadow: 2px 2px 4px slateblue;
+  
+
+}
+
+#lienwomen a{
+  text-decoration: none;
+  color:slateblue;
+  font-family: Verdana;
+  top: 300px;
+  position: absolute;
+  z-index: 1;
+  left: 55px;
+  font-size: 18px;
+}
+
+#lienwomen a:hover{
+  text-decoration: none;
+  text-shadow: 2px 2px 4px slateblue;
+  
+
+}
+
+
+#pictures{
+  height: 100px;
+  width: 1100px;
+  position: absolute;
+  z-index: 3;
+  text-align: justify;
+  left: 55px;
+  font-family: Verdana;
+  font-size: 30px;
+  color: white;
+  text-shadow: 2px 2px 4px slateblue;
+  top: 350px;
+
+}
+
+#lienimg1 a{
+  position: absolute;
+  text-decoration: none;
+  color:slateblue;
+  font-family: Verdana;
+  top: 450px;
+  z-index: 1;
+  left: 55px;
+  font-size: 18px;
+
+}
+#lienimg1 a:hover{
+  text-decoration: none;
+  text-shadow: 2px 2px 4px slateblue;
+  
+
+}
+
+#lienimg2 a{
+  position: absolute;
+  text-decoration: none;
+  color:slateblue;
+  font-family: Verdana;
+  top: 500px;
+  z-index: 1;
+  left: 55px;
+  font-size: 18px;
+
+}
+#lienimg2 a:hover{
+  text-decoration: none;
+  text-shadow: 2px 2px 4px slateblue;
+  
+
+}
+
+#lienimg3 a{
+  position: absolute;
+  text-decoration: none;
+  color:slateblue;
+  font-family: Verdana;
+  top: 550px;
+  z-index: 1;
+  left: 55px;
+  font-size: 18px;
+
+}
+#lienimg3 a:hover{
+  text-decoration: none;
+  text-shadow: 2px 2px 4px slateblue;
+  
+
+}
+#acceuil a{
+  color:skyblue;
+  text-decoration: none;
+  top: 50px;
+  font-size: 20px;
+}
+#accueil a:hover{
+  text-decoration: none;
+  color:white;
+  text-shadow: 2px 2px 4px white;
+}
+
+#aides{
+  height: 100px;
+  width: 1100px;
+  position: absolute;
+  z-index: 3;
+  text-align: justify;
+  left: 55px;
+  font-family: Verdana;
+  font-size: 30px;
+  color: white;
+  text-shadow: 2px 2px 4px slateblue;
+  top: 600px;
+
+}
+
+#aidecss a{
+  position: absolute;
+  text-decoration: none;
+  color:slateblue;
+  font-family: Verdana;
+  top: 700px;
+  z-index: 1;
+  left: 55px;
+  font-size: 18px;
+
+}
+#aidecss a:hover{
+  text-decoration: none;
+  text-shadow: 2px 2px 4px slateblue;
+  
+
+}
+
+#aidehtml a{
+  position: absolute;
+  text-decoration: none;
+  color:slateblue;
+  font-family: Verdana;
+  top: 750px;
+  z-index: 1;
+  left: 55px;
+  font-size: 18px;
+
+}
+#aidehtml a:hover{
+  text-decoration: none;
+  text-shadow: 2px 2px 4px slateblue;
+  
+
+}

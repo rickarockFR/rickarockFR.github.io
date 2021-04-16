@@ -1,4 +1,3 @@
-# webGitHub.io
 # Modèle de répertoire Git pour votre site web
 
 Les [réglages, c'est par là](../../settings).

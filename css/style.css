@@ -1,0 +1,26 @@
+h1,p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p,li {
+  font-size: 24px;
+}
+
+.onglets {
+  white-space:pre;
+}
+
+body {
+  background-color: deepskyblue;
+  background-image: linear-gradient(deepskyblue, turquoise);
+  color: black;
+  font-family: Verdana;
+  height: 100vh;
+  text-align: center;
+}
